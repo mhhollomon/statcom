@@ -5,7 +5,7 @@ import json
 import github
 
 class CONFIG :
-    TOKEN = "b14b17358ce7757b623988289a240a8043a42023"
+    TOKEN = "=<>"
 
 def validate_json(json) :
     if not json :
